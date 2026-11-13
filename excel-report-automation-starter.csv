@@ -1,0 +1,13 @@
+date,department,category,amount,note
+2026-11-03,Support,Hardware,240.00,Sample row - replacement keyboard set
+2026-11-04,Support,Software,120.00,Sample row - licence renewal
+2026-11-05,Operations,Hardware,180.00,Sample row - spare monitor
+2026-11-06,Support,Hardware,300.00,Sample row - replacement laptop battery
+2026-11-07,Operations,Software,90.00,Sample row - utility licence
+2026-11-10,Support,Services,150.00,Sample row - printer maintenance visit
+2026-11-11,Operations,Hardware,100.00,Sample row - cables and adapters
+2026-11-12,Support,Software,200.00,Sample row - collaboration tool seats
+2026-11-13,Operations,Services,80.00,Sample row - courier for returned kit
+2026-11-14,Support,Hardware,140.00,Sample row - headset replacements
+2026-11-17,Operations,Software,160.00,Sample row - backup tool renewal
+2026-11-18,Support,Services,120.00,Sample row - on-site support callout
